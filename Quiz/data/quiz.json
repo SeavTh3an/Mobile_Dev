@@ -1,0 +1,25 @@
+{
+  "id": "quiz1",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "What is the capital of France?",
+      "correctChoice": 2,
+      "choice": [
+        { "id": "a1", "answerChoice": "Berlin" },
+        { "id": "a2", "answerChoice": "Madrid" },
+        { "id": "a3", "answerChoice": "Paris" }
+      ]
+    },
+    {
+      "id": "q2",
+      "title": "2 + 2 = ?",
+      "correctChoice": 1,
+      "choice": [
+        { "id": "a1", "answerChoice": "3" },
+        { "id": "a2", "answerChoice": "4" },
+        { "id": "a3", "answerChoice": "5" }
+      ]
+    }
+  ]
+}
